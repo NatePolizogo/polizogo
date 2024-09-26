@@ -5,23 +5,23 @@ title: Thanassis Polizogopoulos
 
 # Welcome to My Website
 
-Hi, I'm **Thanassis Polizogopoulos**, an [Electrical & Computer Engineer] passionate about [your interests or skills]. Welcome to my personal space on the web!
+Hi, I'm **Thanassis Polizogopoulos**, an Electrical & Computer Engineer passionate about Computer Science. Welcome to my personal space on the web!
 
 ![Your Image](path/to/your-image.jpg)
 
 ## About Me
-I'm an [Electrical & Computer Engineer] with a focus on [AI & Control Systems]. I have experience in:
-- Skill 1
-- Skill 2
-- Skill 3
+I'm an Electrical & Computer Engineer with a focus on AI & Control Systems. I have experience in:
+- Machine Learning
+- Computer Vision
+- Software Engineering
 
-In my free time, I love exploring [your interests/hobbies]. Feel free to reach out to me for collaborations or just to chat.
+In my free time, I love exploring music/games. Feel free to reach out to me for collaborations or just to chat.
 
 ## Work Experience
 Here's a summary of my professional background:
 
-### [Job Title 1] - [Company Name]
-*From [Start Date] to [End Date]*
+### Senior Machine Learning Engineer - Irida Labs
+*Period 01/08/2024 - Present*
 - **Responsibilities**: Briefly describe your main duties or achievements here.
 - **Technologies/Skills Used**: List relevant technologies, tools, or methodologies you used.
 
