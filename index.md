@@ -7,7 +7,7 @@ title: Thanassis Polizogopoulos
 
 Hi, I'm **Thanassis Polizogopoulos**, an Electrical & Computer Engineer passionate about Computer Science. Welcome to my personal space on the web!
 
-![Your Image](path/to/your-image.jpg)
+<img src="assets/avatar.jpg" alt="Thanassis Polizogopoulos" width="100"/>
 
 ## About Me
 I'm an Electrical & Computer Engineer with a focus on AI & Control Systems. I have experience in:
